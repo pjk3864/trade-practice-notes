@@ -1,0 +1,10 @@
+# Keep this repository limited to reviewed learning notes.
+.analysis/
+.env
+.env.*
+*.pdf
+*.json
+*.xlsx
+*.docx
+*.png
+*.jpg
